@@ -1,0 +1,133 @@
+h2{
+    text-transform: capitalize;
+    color: firebrick;
+}
+ul > li{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    color: red;
+}
+li:hover{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+.L{
+    color: brown;
+    position: static;
+}
+#O{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.V{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#E{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Y{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#O{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#U{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#And{
+    color: rgba(23, 98, 196, 0.842);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.I{
+    position: fixed;
+    top: 0px;
+    color: crimson;
+    background-color: white;
+    width: 4000px;
+}
+.H{
+    position: fixed;
+    top: 0px;
+    left: 420px;
+    color: crimson;    
+}
+.A{
+    position: fixed;
+    top: 0px;
+    left: 490px;
+    color: crimson;  
+} 
+.T{
+    position: fixed;
+    top: 0px;
+    left: 650px;
+    color: crimson;  
+}
+.E{
+    position: fixed;
+    top: 0px;
+    right: 360px;
+    color: crimson;  
+}
+.Y{
+    position: fixed;
+    top: 0px;
+    right: 150px;
+    color: crimson;  
+}
+.O{
+    position: fixed;
+    top: 30px;
+    left: 420px;
+    color: crimson;
+}
+.U{
+    position: fixed;
+    top: 30px;
+    left: 660px;
+    color: crimson;
+}
+.petra{
+    width: 350px;
+    height: 350px;
+    float: right;
+} 
+.machu{
+    width: 350px;
+    height: 350px;
+    float: right;
+} 
+.Wall{
+    width: 350px;
+    height: 350px;
+    float: right;
+}
+.taj{
+    width: 350px;
+    height: 350px;
+    float: right; 
+}
+.colosseum{
+    width: 350px;
+    height: 350px;
+    float: right; 
+}
+.christ{
+    width: 350px;
+    height: 350px;
+    float: right; 
+}
+.pyramid{
+    width: 350px;
+    height: 350px;
+    float: right; 
+}
+ 
+ 
